@@ -259,7 +259,9 @@ Grad-CAM ensures the model attends to **clinically relevant anatomical structure
 ## 👨‍💻 Authors
 
 **Department of Computer Science & Engineering**  
-**East West University, Dhaka, Bangladesh**
+**East West University, Dhaka, Bangladesh**\\
+**Department of Computer Science and Engineering** 
+**Brac University, Dhaka, Bangladesh**
 
 | Name | Role |
 |------|------|
